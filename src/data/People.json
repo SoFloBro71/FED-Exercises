@@ -1,0 +1,140 @@
+{
+    "results": [
+        {
+            "name": {
+                "title": "miss",
+                "first": "sara",
+                "last": "cavalcanti"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/8.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+            },
+            "quote": "Seize the day"
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "edwin",
+                "last": "wu"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/1.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+            },
+            "quote": "Rock and roll!"
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "اميرمحمد",
+                "last": "حیدری"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/61.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+            },
+            "quote": "IADT 4 life!!!"
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "kelly",
+                "last": "lopez"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/83.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+            },
+            "quote": "AJS ftw!"
+        },
+        {
+            "name": {
+                "title": "miss",
+                "first": "sedef",
+                "last": "toraman"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/34.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
+            },
+            "quote": "All watched over by machines of loving grace"
+        },
+        {
+            "name": {
+                "title": "monsieur",
+                "first": "alfred",
+                "last": "berger"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/57.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+            },
+            "quote": "May we live in interesting times"
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "babür",
+                "last": "eliçin"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/75.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+            },
+            "quote": "The future is here, it's just not evenly distributed"
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "ted",
+                "last": "diaz"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/25.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+            },
+            "quote": "Seize the day"
+        },
+        {
+            "name": {
+                "title": "mrs",
+                "first": "gina",
+                "last": "geist"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/34.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
+            },
+            "quote": "Seize the day"
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "roope",
+                "last": "eskola"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/52.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+            },
+            "quote": "Seize the day"
+        }
+    ],
+    "info": {
+        "seed": "c52886ce5f3e0938",
+        "results": 10,
+        "page": 1,
+        "version": "1.2"
+    }
+}

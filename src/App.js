@@ -1,25 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import people from './data/People.json';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+
+const App = () => {
+    console.log(people)
+
+    const peopleInfo = people.results.map((person) => {
+        return (
+            <div key = {person.name.first}>
+                <div>
+                <img src={person.picture.medium} />
+                <h2>{person.name.first}</h2>
+                <h3>{person.quote}</h3>
+                </div>
+            <hr/>
+            
+            </div>
+        );
+    });
+
+    // people.results.forEach((person, index) => { console.log(person.quote) });
+
+    return (
+        <>
+        <h1>People</h1>
+        {peopleInfo}
+        </>
+// FRAGMENTS ARE TYPICALLY FOR DIVS UNLESS YOU DONT CARE 
+    );
+};
 
 export default App;
