@@ -1,21 +1,12 @@
 import people from './data/People.json';
-
+import PersonCard  from './componens/PersonCard';
 
 const App = () => {
     console.log(people)
 
     const peopleInfo = people.results.map((person) => {
-        return (
-            <div key = {person.name.first}>
-                <div>
-                <img src={person.picture.medium} />
-                <h2>{person.name.first}</h2>
-                <h3>{person.quote}</h3>
-                </div>
-            <hr/>
-            
-            </div>
-        );
+    return <PersonCard key ={person.name.first}person={person}/>;
+        
     });
 
     // people.results.forEach((person, index) => { console.log(person.quote) });
