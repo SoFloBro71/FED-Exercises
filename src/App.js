@@ -8,7 +8,7 @@ const App = () => {
         return (
             <div key = {person.name.first}>
                 <div>
-                <img src={person.picture.medium} />
+                <img src={person.picture.medium}/>
                 <h2>{person.name.first}</h2>
                 <h3>{person.quote}</h3>
                 </div>
